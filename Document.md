@@ -17,7 +17,8 @@
 ## 2、产品标识
 
 * 在每个软件产品立项时建立该软件产品的标识，以唯一地代表一个软件产品或项目，产品标识也称为项目标识。
-* 
+
+![Alt text](https://github.com/adam10189/Document/blob/master/20180614152800.png)
 ![image][product]
 ![image][table]
 ## 2.1产品名称
